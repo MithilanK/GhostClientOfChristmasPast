@@ -1,0 +1,16 @@
+[
+{
+  "modid": "YTC",
+  "name": "The Ghost Client of Christmas Yet to Come",
+  "description": "Detectable Ghost Client",
+  "version": "Beta",
+  "mcversion": "1.8.9",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Mithilank"],
+  "credits": "Mithilan",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
